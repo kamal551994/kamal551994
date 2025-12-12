@@ -1,10 +1,44 @@
-👋 Hi, I’m Sk Kamaluddin
-👀 I’m interested in software testing, finding bugs, team collaboration, and continuous learning.
-🌱 I’m currently learning more about automation testing tools such as Selenium WebDriver. Additionally, I'm utilizing ChatGPT skills to increase work efficiency and expanding my knowledge of Agile methodologies.
-💞️ I’m looking to collaborate on projects related to software testing, quality assurance, and Agile development.
-📫 How to reach me: Feel free to reach out to me via email at skkamaluddin255@gmail.com or connect with me on LinkedIn at linkedin.com/in/sk-kamaluddin55. You can also reach me at +91-8240373805.
-😄 Pronouns: He/Him
-⚡ Fun fact: I enjoy experimenting with new recipes and exploring different cuisines in my free time!
+🧑‍💻 Hi, I'm Sk Kamaluddin
+
+QA Automation Engineer | Java • Selenium • TestNG • Cucumber • Playwright (Learning)
+Building reliable automation frameworks & improving software quality, one test at a time.
+
+🔥 About Me
+
+Great testing isn’t just about finding bugs — it’s about ensuring confidence in every release.
+
+I’m a QA Automation Engineer with hands-on experience in building scalable automation frameworks using Java, Selenium WebDriver, TestNG, and Cucumber BDD, backed by strong manual testing fundamentals. I enjoy solving real testing challenges such as improving coverage, stabilizing regression suites, and enabling faster, high-quality deployments.
+
+I’m currently growing toward an SDET role, exploring API automation, Playwright, and AI-assisted testing workflows.
+
+🛠️ Tech Stack & Tools
+Languages
+
+Java
+JavaScript (Learning)
+
+Automation & Testing
+
+Selenium WebDriver
+TestNG
+Cucumber BDD
+Automation Framework Development (POM, Hybrid)
+Playwright (Learning)
+
+Tools & Platforms
+
+Eclipse IDE
+Visual Studio Code
+TestRail
+GitHub
+BrowserStack
+
+🚀 What I’m Currently Working On
+
+Mastering Playwright for fast UI automation
+Exploring GenAI & AI Agents for intelligent test generation
+Designing scalable hybrid automation frameworks
+
 
 <!---
 kamal551994/kamal551994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
